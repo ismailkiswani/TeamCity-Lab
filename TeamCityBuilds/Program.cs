@@ -6,7 +6,8 @@ namespace TeamCityBuilds
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Team City Test");
+
         }
     }
 }
